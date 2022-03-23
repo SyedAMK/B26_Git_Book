@@ -1,2 +1,8 @@
 
 Coming from our team mates
+
+changes made
+
+only in remote repsitory
+
+must be fetched 
